@@ -1,4 +1,6 @@
 ![](https://images.cooltext.com/5548848.png)
+
+
 Ejercicios desarrollados en una pagina web para crear circuitos online (Wokwi).
 El microcontrolador utilizado para desarrollar estas practicas fue un Raspberry Pi Pico
 en conjunto con otros componentes como: 
